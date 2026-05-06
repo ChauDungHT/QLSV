@@ -20,7 +20,7 @@ Nếu chưa có Docker Desktop:
 ## 📥 Clone repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ChauDungHT/QLSV.git
 cd QLSV
 ```
 
